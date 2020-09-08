@@ -1,4 +1,4 @@
-# tic-tac-toe-game
+# Tic-Tac-Toe-game
 tic tac toe game using pygame
 
 REQUIREMENTS FOR THE GAME:
